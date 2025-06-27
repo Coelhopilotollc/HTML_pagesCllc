@@ -1,2 +1,2 @@
 # HTML_pagesCllc
-Estruturando sites HTML
+Neste repositório, estou aprendendo HTML e a estruturar sites. 🛠️📰💻
